@@ -223,11 +223,12 @@ form legend{
      flex: 0 0 90px;
      padding-top: .5rem;
      color: white;
+     margin: 2rem auto;
 }
 
 .campo input{
      flex: 1;
-     height: 6rem;
+     height: 4rem;
 }
 .campo textarea{
      height: 6rem;
