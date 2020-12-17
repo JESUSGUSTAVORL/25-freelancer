@@ -135,7 +135,7 @@ p{
      max-width: var(--anchoPantalla);
      margin: 3rem auto; /*Arriba abajo 3rem derecha izq auto*/
      background-color: white;
-     padding: 3rem;
+     padding: 3rem 3rem;
      border-radius: 1rem;
      
      
